@@ -1,5 +1,6 @@
 # AAE-FormatUtility-Metabot
 Extraction and Format value
+
 Getting Started
 Data Extraction and Format metabot can be used to extract and format data from a source text value.
 
