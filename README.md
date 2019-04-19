@@ -13,13 +13,13 @@ AA / CR v11.3+
 
 ## Available Functions (Metabot) 
 
-Get Extract and Format Value
-Get Extracted Text Match Regex
-Get Formatted Date
-Get Formatted Date Last Day Of Month
-Get Formatted Date With Date Operation
-Get Formatted Number
-Get Text Replace Values
+* Get Extract and Format Value
+* Get Extracted Text Match Regex
+* Get Formatted Date
+* Get Formatted Date Last Day Of Month
+* Get Formatted Date With Date Operation
+* Get Formatted Number
+* Get Text Replace Values
 
 ## Documentation
 
