@@ -23,7 +23,7 @@ AA / CR v11.3+
 
 ## Documentation
 
-see MS Word document "Extract and Format - Functions.docx".
+See MS Word document "Extract and Format - Functions.docx".
 
 ## Contributing
 
