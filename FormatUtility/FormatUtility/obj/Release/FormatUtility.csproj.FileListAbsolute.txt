@@ -1,0 +1,6 @@
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\FormatUtility\bin\Release\FormatUtility.dll
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\FormatUtility\bin\Release\FormatUtility.pdb
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\FormatUtility\obj\Release\FormatUtility.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\FormatUtility\obj\Release\FormatUtility.dll
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\FormatUtility\obj\Release\FormatUtility.pdb
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\FormatUtility\obj\Release\FormatUtility.csprojAssemblyReference.cache

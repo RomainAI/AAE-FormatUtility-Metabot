@@ -1,0 +1,9 @@
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\obj\Release\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\obj\Release\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\bin\Release\ConsoleTest.pdb
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\bin\Release\FormatUtility.dll
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\bin\Release\FormatUtility.pdb
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\obj\Release\ConsoleTest.csproj.CopyComplete
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\obj\Release\ConsoleTest.pdb
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\bin\Release\ConsoleTest.exe
+C:\Users\Romain.Alexandre\source\repos\FormatUtility\ConsoleTest\obj\Release\ConsoleTest.exe
